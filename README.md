@@ -2,8 +2,7 @@
 
 
 **Proposed CNN Model (model_CNN.ipynb):**
-Architecture improvements made from the baseline.
-Enhanced feature extraction and generalization performance.
+Architecture improvements made from the baseline. Final Architecture for final report
 
 **Baseline CNN Model (model_CNN_baseline.ipynb):**
 Initial architecture proposed during the preliminary report.
