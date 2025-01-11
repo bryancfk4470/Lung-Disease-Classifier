@@ -1,7 +1,7 @@
 # Lung-Disease-Classifier
 
-**Models Overview**
-Proposed CNN Model (model_CNN.ipynb):
+
+**Proposed CNN Model (model_CNN.ipynb):**
 Architecture improvements made from the baseline.
 Enhanced feature extraction and generalization performance.
 
